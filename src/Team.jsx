@@ -13,7 +13,7 @@ export default function Team() {
     }
 
     const teamStyle = {
-        border: '2px solid purple',
+        border: '2px solid red',
         margin: '10px',
         padding: '15px',
         borderRadius: '15px'
